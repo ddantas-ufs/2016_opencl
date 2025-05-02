@@ -1,0 +1,9 @@
+Times of execution in GPU:
+
+copy                  = 0.000130
+mean                  = 0.041313
+dilate(sep)           = 3.089025
+dilate(cross)         = 0.051736
+dilate(hypercube)     = 0.051806
+graythresh            = 0.003317
+negative              = 0.003245

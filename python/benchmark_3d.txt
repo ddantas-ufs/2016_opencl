@@ -1,0 +1,16 @@
+shape: (256, 256, 336)
+image shape: (256, 256, 336)
+Benchmarking mean_ndarray, 10 times executions of  3x^5 on ndarray
+Total time: 6.923395872116089
+Benchmarking dilation_ndarray, 10 times executions of  3x^5 on ndarray
+Total time: 15.549889326095581
+Benchmarking dilation_sep_ndarray, 10 times executions of  3x^5 on ndarray
+Total time: 11.455655097961426
+Benchmarking dilation_ndarray, 10 times executions of  3x^5 on ndarray
+Total time: 15.43288278579712
+Benchmarking copy, 10 times executions of  3x^5 on ndarray
+Total time: 0.7660439014434814
+Benchmarking negate, 10 times executions of  3x^5 on ndarray
+Total time: 1.9361107349395752
+Benchmarking threshold, 10 times executions of  3x^5 on ndarray
+Total time: 0.7400422096252441
