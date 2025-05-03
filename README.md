@@ -11,4 +11,4 @@ References
 Fast multidimensional image processing with OpenCL \
 International Conference on Image Processing (ICIP), 2016, IEEE, Phoenix.\
 http://dx.doi.org/10.1109/icip.2016.7532664 \
-https://www.researchgate.net/publication/307515947_Fast_multidimensional_image_processing_with_OpenCL \
+https://www.researchgate.net/publication/307515947_Fast_multidimensional_image_processing_with_OpenCL
